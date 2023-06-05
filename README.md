@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/kinoute/kinoute/blob/master/images/output.gif?raw=true" />
+</p>
+
+## Hi there 👋
 
 <!--
 **zandyai/zandyai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
