@@ -2,9 +2,18 @@
   <img src="https://github.com/kinoute/kinoute/blob/master/images/output.gif?raw=true" />
 </p>
 
-##Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zandra V 
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zandra V 
 Blockchain Full-Stack Developer  
-Blockchain Full-Stack Developer with a strong background in accounting and business development. Passionate about leveraging blockchain technology to revolutionize traditional financial systems and drive innovation in the digital economy. Proficient in developing end-to-end blockchain solutions, smart contracts, decentralized applications (dApps), and integrating blockchain with existing systems. Experienced in designing and implementing secure, scalable, and efficient solutions using blockchain frameworks like Ethereum and Hyperledger. Skilled in programming languages such as Solidity, JavaScript, and Python, with a focus on creating seamless user experiences and robust backend architectures. Committed to staying updated with the latest advancements in blockchain and applying them to solve real-world challenges. Excited to collaborate on cutting-edge blockchain projects and contribute to the future of decentralized finance and global business transformation.  * 🌍  I'm based in Makati City, Philippines * 🧠  I'm learning Cybersecurity * 🤝  I'm open to collaborating on Web3 Projects | Full-Stack Projects
+
+* Blockchain Full-Stack Developer with a strong background in accounting and business development. 
+* Passionate about leveraging blockchain technology to revolutionize traditional financial systems and drive innovation in the digital economy. 
+* Proficient in developing end-to-end blockchain solutions, smart contracts, decentralized applications (dApps), and integrating blockchain with existing systems. 
+* Experienced in designing and implementing secure, scalable, and efficient solutions using blockchain frameworks like Ethereum and Hyperledger. 
+* Skilled in programming languages such as Solidity, JavaScript, and Python, with a focus on creating seamless user experiences and robust backend architectures. 
+* Committed to staying updated with the latest advancements in blockchain and applying them to solve real-world challenges. 
+* Excited to collaborate on cutting-edge blockchain projects and contribute to the future of decentralized finance and global business transformation.  
+
+* 🌍  I'm based in Makati City, Philippines * 🧠  I'm learning Cybersecurity * 🤝  I'm open to collaborating on Web3 Projects | Full-Stack Projects
 
 ### Skills  
 
